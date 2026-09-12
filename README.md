@@ -29,7 +29,7 @@ AI Health Guardian lets users enter their symptoms and vitals and receive an ins
 | Backend | Python, FastAPI |
 | AI Model | Groq API (compound-beta) |
 | Database | Supabase (PostgreSQL) |
-| Deployment | Vercel (frontend), Railway (backend) |
+| Deployment | Vercel (frontend), Render (backend) |
 
 ## 🏗️ Project Structure
 
